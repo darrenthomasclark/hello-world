@@ -1,0 +1,99 @@
+.h1body {
+  font-size: 42px;
+  font-weight: 100;
+  letter-spacing: -3px;
+  margin-left: 20px;
+  margin-top: 30px;
+  color: #white;
+}
+
+.h2date {
+  font-size: 24px;
+  font-weight: 100;
+  letter-spacing: -1px;
+  margin-right: 25px;
+  margin-top: 30px;
+  color: #00bdf2;
+}
+
+h3 {
+  font-size: 1em;
+  font-weight: 300;
+  letter-spacing: 3px;
+  margin-left: 15px;
+}
+
+h3 a:link {
+  font-size: 1em;
+  font-weight: 300;
+  letter-spacing: 3px;
+  margin-left: 15px;
+}
+
+h3 a:hover {
+  font-size: 1em;
+  font-weight: 300;
+  letter-spacing: 3px;
+  margin-left: 15px;
+  text-decoration: underline;
+}
+
+.bodycontainer {
+background: #ECE9E6; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #ECE9E6 , #FFFFFF); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #ECE9E6 , #FFFFFF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+height: 100vh;
+}
+
+.topline {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.bodycopy {
+  margin-top: 30px;
+  margin-left: 50px;
+  margin-right: 50px;
+  -webkit-column-count: 2; /* Chrome, Safari, Opera */
+  -moz-column-count: 2; /* Firefox */
+  column-count: 2;
+  -webkit-column-gap: 40px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 40px; /* Firefox */
+    column-gap: 40px;
+}
+
+p {
+  font-size: 14px;
+  font-family: sans-serif;
+  font-weight: 200;
+  color: black;
+  line-height: 25px;
+}
+
+p a:link{
+  font-size: 14px;
+  font-family: sans-serif;
+  font-weight: 200;
+  color: #008ce6;
+  line-height: 25px;
+  text-decoration: none;
+}
+
+p a:hover{
+  font-size: 14px;
+  font-family: sans-serif;
+  font-weight: 200;
+  color: #008ce6;
+  line-height: 25px;
+  text-decoration: underline;
+}
+
+  p a:visited{
+    font-size: 14px;
+    font-family: sans-serif;
+    font-weight: 200;
+    color: #008ce6;
+    line-height: 25px;
+    text-decoration: underline;
+}
