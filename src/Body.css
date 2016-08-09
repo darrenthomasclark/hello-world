@@ -2,16 +2,16 @@
   font-size: 42px;
   font-weight: 100;
   letter-spacing: -3px;
-  margin-left: 20px;
+  margin-left: 75px;
   margin-top: 30px;
-  color: #white;
+  color:#008ce6;
 }
 
 .h2date {
   font-size: 24px;
   font-weight: 100;
   letter-spacing: -1px;
-  margin-right: 25px;
+  margin-right: 100px;
   margin-top: 30px;
   color: #00bdf2;
 }
@@ -53,8 +53,9 @@ height: 100vh;
 
 .bodycopy {
   margin-top: 30px;
-  margin-left: 50px;
-  margin-right: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 0px;
   -webkit-column-count: 2; /* Chrome, Safari, Opera */
   -moz-column-count: 2; /* Firefox */
   column-count: 2;

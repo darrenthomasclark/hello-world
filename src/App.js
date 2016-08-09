@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import Body from './Body'
+import Footer from './Footer'
 import './App.css'
 
 class App extends Component {
@@ -12,6 +13,7 @@ class App extends Component {
           <h3>Portfolio Music Blog</h3>
         </div>
         <Body />
+        <Footer />
       </div>
     )
   }

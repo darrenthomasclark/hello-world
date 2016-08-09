@@ -19,6 +19,8 @@ class Body extends Component {
       <p>That we can participate in the political process without fear of retribution, and that our votes will be counted at least, most of the time. And all across the country, communities of faith are sponsoring day care programs, building senior centers, and in so many other ways, taking part in the project of American renewal. These are the Americans that I know. <a href='#'>Our problems</a> must be dealt with through partnership; progress must be shared. Now is the time for Palestinians to focus on what they can build. But it is clear to all concerned that when it comes to nuclear weapons, we have reached a decisive point.</p>
 
       <p>A belief that there are better days ahead. We need a President who can face the threats of the future, not keep grasping at the ideas of the past.</p>
+
+      <p><a href='#'><b>Read more...</b></a></p>
       </div>
     </div>
     )
